@@ -17,8 +17,12 @@ A tela deve conter os seguintes botões:
 
 
 Critérios de avaliação:
+
 Layout da tela com todos os requisitos (1,0)
+
 Inclusão no banco de dados (5,0)
+
 Apresenta dados (na forma de json [ apresentar os dados contidos na tela em
 formato json após conversão em um JOptionPane] (3,0)
+
 Sair e Limpar (1,0)
