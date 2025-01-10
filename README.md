@@ -2,6 +2,8 @@ Trabalho prático – Substitui PII
 
 Crie uma tela para cadastro de aluno de academia com os seguintes requisitos,
 os seguintes campos são obrigatórios:
+
+
 1. Nome (String)
 2. Idade (int)
 3. Peso (float)
@@ -12,6 +14,8 @@ A tela deve conter os seguintes botões:
 2. Limpar
 3. Apresenta Dados
 4. Sair
+
+
 Critérios de avaliação:
 Layout da tela com todos os requisitos (1,0)
 Inclusão no banco de dados (5,0)
